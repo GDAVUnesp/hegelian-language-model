@@ -6,7 +6,8 @@ A temperatura influencia em todos os agentes, nos agentes tese/antítese com tem
 - Deixar mais claro a definição se a sentança é falsa ou não.
 - Testado com gemma3:4b e gemma:2b (pressupôe que todos os modelos Ollama funcionem nessa arquitetura).
 - Fazer a análise com o Benchmark Results do gemma3 em Ollama (consta uns já avaliados como MMLU e GSM8K).
-- Verificar a ação do moderador, se ele apenas escolhe uma das respostas como tese ou antítese ou faz a mescla das duas. 
+- Verificar a ação do moderador, se ele apenas escolhe uma das respostas como tese ou antítese ou faz a mescla das duas.
+- Modificar o prompt do antitese para buscar relação entre os objetos ao invés de incrementar diretamente a respota da tese.
 - Verificar o parâmetro: number of players
 - Verificar a complexidade da resposta quando o agente antitese sabe que está contra argumentando uma IA
 - Onde colocar a progressão do projeto.
