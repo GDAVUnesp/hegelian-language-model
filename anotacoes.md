@@ -7,3 +7,4 @@ A temperatura influencia em todos os agentes, nos agentes tese/antítese com tem
 - Fazer a análise com o Benchmark Results do gemma3 em Ollama (consta uns já avaliados como MMLU e GSM8K).
 - Verificar a ação do moderador, se ele apenas escolhe uma das respostas como tese ou antítese ou faz a mescla das duas. 
 - Verificar o parâmetro: number of players
+- Verificar a complexidade da resposta quando o agente antitese sabe que está contra argumentando uma IA
