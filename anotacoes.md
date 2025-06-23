@@ -9,3 +9,5 @@ A temperatura influencia em todos os agentes, nos agentes tese/antítese com tem
 - Verificar a ação do moderador, se ele apenas escolhe uma das respostas como tese ou antítese ou faz a mescla das duas. 
 - Verificar o parâmetro: number of players
 - Verificar a complexidade da resposta quando o agente antitese sabe que está contra argumentando uma IA
+- Onde colocar a progressão do projeto.
+- Qual a quantidade de execuções para uma validação e colocar métrica.
